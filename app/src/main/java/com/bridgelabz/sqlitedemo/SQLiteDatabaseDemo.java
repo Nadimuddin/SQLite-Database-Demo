@@ -1,7 +1,7 @@
 package com.bridgelabz.sqlitedemo;
 /**
  * Created by Nadimuddin on 12/9/16.
- * purpose:
+ * purpose: learning android
  */
 
 import android.content.ContentValues;

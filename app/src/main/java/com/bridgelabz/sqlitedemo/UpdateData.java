@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 /**
  * Created by bridgelabz1 on 14/9/16.
+ * purpose: learning android
  */
 public class UpdateData extends Dialog implements View.OnClickListener
 {

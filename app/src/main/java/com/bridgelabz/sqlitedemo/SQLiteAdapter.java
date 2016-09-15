@@ -11,6 +11,7 @@ import java.util.ArrayList;
 
 /**
  * Created by Nadimuddin on 14/9/16.
+ * purpose: learning android
  */
 public class SQLiteAdapter extends BaseAdapter {
     //ArrayList to store Employee info

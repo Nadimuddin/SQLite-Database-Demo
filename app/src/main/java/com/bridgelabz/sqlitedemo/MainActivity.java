@@ -2,6 +2,7 @@ package com.bridgelabz.sqlitedemo;
 
 /**
  * Created by Nadimuddin on 14/9/16.
+ * purpose: learning android
  */
 
 import android.content.Intent;

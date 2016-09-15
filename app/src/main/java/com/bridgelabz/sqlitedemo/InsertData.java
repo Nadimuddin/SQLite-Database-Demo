@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 /**
  * Created by Nadimuddin on 14/9/16.
+ * purpose: learning android
  */
 public class InsertData extends Dialog implements View.OnClickListener
 {
